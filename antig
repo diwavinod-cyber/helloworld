@@ -1,0 +1,4 @@
+cd /Users/Diwavinod/.gemini/antigravity/playground/eternal-einstein
+git branch -M main
+git remote add origin https://github.com/diwavinod-cyber/helloworld.git
+git push -u origin main
